@@ -17,6 +17,9 @@
         <item>@color/dot_dark_screen4</item>
     </array>
 
+    <!-- Dashboard -->
+    <color name="colorBlackText">#000000</color>
+
 
     <color name="material_drawer_selected_text">#3F51B5</color>
     <color name="material_drawer_dark_selected_text">#3F51B5</color>

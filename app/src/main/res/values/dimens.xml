@@ -8,4 +8,15 @@
     <dimen name="logo_w_h">100dp</dimen>
     <dimen name="nav_header_vertical_spacing">8dp</dimen>
     <dimen name="nav_header_height">176dp</dimen>
+
+    <!-- content_main.xml -->
+    <dimen name="main_linlaButtons_marginBottom">40dp</dimen>
+    <dimen name="main_linlaButtonsTop_marginTop">240dp</dimen>
+    <dimen name="main_linlaButtonsBottom_marginTop">40dp</dimen>
+    <dimen name="main_button_width">100dp</dimen>
+    <dimen name="main_button_height">80dp</dimen>
+    <dimen name="main_button_paddingTop">10dp</dimen>
+    <dimen name="main_button_marginRight">14dp</dimen>
+    <dimen name="main_button_txtSize">13sp</dimen>
+
 </resources>

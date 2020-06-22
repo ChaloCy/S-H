@@ -16,7 +16,7 @@
     <string name="slide_4_title">Fast Delivery</string>
     <string name="slide_4_desc">Blazing fast order delivery within time !</string>
 
-<!--    Sign in-->
+<!--    Authentication-->
     <string name="action_sign_in_short">Register</string>
     <string name="email">Email</string>
     <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
@@ -46,4 +46,11 @@
     <string name="lbl_forgot_password">Forgot password?</string>
     <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
 
+    <!-- Dashboard-->
+    <string name="content_main_content1">Content1</string>
+    <string name="content_main_content2">Content2</string>
+    <string name="content_main_content3">Content3</string>
+    <string name="content_main_content4">Content4</string>
+    <string name="content_main_contact">Contact</string>
+    <string name="content_main_social">Social</string>
 </resources>
