@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "338435381337",
+    "firebase_url": "https://sh-portal-a42d0.firebaseio.com",
+    "project_id": "sh-portal-a42d0",
+    "storage_bucket": "sh-portal-a42d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338435381337:android:153bcb0d3301fb2429f948",
+        "android_client_info": {
+          "package_name": "com.example.shportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338435381337-lc3k0j7vthaf6muom25k9ro37r8v5ka8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shportal",
+            "certificate_hash": "ee7df70574a294c88024079b4ffa7046d4ee6fc3"
+          }
+        },
+        {
+          "client_id": "338435381337-k9gfm4ccicaia13mu9qsbedri4vsinfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlCJuxIXnyirM1uCkSQFnigvGXaTQMm1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338435381337-k9gfm4ccicaia13mu9qsbedri4vsinfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
