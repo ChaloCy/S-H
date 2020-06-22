@@ -20,13 +20,18 @@
         android:orientation="vertical"
         android:padding="@dimen/activity_horizontal_margin">
 
+        <ImageView
+            android:layout_width="@dimen/logo_w_h"
+            android:layout_height="@dimen/logo_w_h"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="10dp"
+            android:src="@drawable/logo" />
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="20sp"
+            android:textSize="15sp"
             android:text="Welcome, Let's sign you in first."/>
-
-
 
         <com.google.android.material.textfield.TextInputLayout
             android:layout_width="match_parent"
@@ -62,12 +67,19 @@
 
         <Button
             android:id="@+id/btn_login"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="20dip"
-            android:background="@color/colorAccent"
+            android:layout_width="290dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
             android:text="@string/btn_login"
-            android:textColor="@android:color/black" />
+            android:textColor="#FFFFFF"
+            android:textSize="15sp"
+            tools:layout_editor_absoluteX="70dp"
+            tools:layout_editor_absoluteY="570dp" />
 
         <Button
             android:id="@+id/btn_reset_password"

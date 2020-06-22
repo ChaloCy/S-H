@@ -137,13 +137,20 @@
         <Button
             android:id="@+id/sign_up_button"
             style="?android:textAppearanceSmall"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="16dp"
-            android:background="@color/colorAccent"
+            android:layout_width="270dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:layout_marginTop="6dp"
             android:text="@string/action_sign_in_short"
-            android:textColor="@android:color/black"
-            android:textStyle="bold" />
+            android:textColor="#FFFFFF"
+            android:textSize="15sp"
+            tools:layout_editor_absoluteX="70dp"
+            tools:layout_editor_absoluteY="570dp"/>
 
         <Button
             android:id="@+id/btn_reset_password"
